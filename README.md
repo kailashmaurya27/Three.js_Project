@@ -10,18 +10,30 @@ This project is a showcase of cutting-edge technology merging AI and web develop
 - **Logo Placement Options:** Users can choose to place the logo at the center of the T-shirt or opt for other placement options.
 - **Full T-shirt Design:** Users have the flexibility to set the design as covering the entire T-shirt or opt for partial designs.
 
+## Pages
+
+- It involves 2 pages:-
+  1. Home Page which has a customize button option and it looks like this
+     ![image](https://github.com/kailashmaurya27/Three.js_Project/assets/91011670/ca48da0f-5546-4e23-8ce6-ac2d0ddb94e5)
+  2. Customizer page which has 3 options
+     **2.1** To change the Tshirt color
+     ![image](https://github.com/kailashmaurya27/Three.js_Project/assets/91011670/17f9c9bb-a4c2-4b32-8cf5-2a37ebac9827)
+     **2.2** To upload your logo or design to Tshirt
+     ![image](https://github.com/kailashmaurya27/Three.js_Project/assets/91011670/533106f8-dfde-4569-9cc2-60e052190353)
+     **2.3** Ask the AI to help you select Tshirt Design and Logo
+     
 ## Technologies Used
 
 - React.js: Front-end framework for building dynamic user interfaces.
 - Three.js: JavaScript library for creating and displaying 3D graphics in a web browser.
-- AI Libraries: Various AI libraries are used for image processing and print generation.
+- OpenAI Library: Various AI libraries are used for image processing and print generation.
 
 ## Getting Started
 
 1. Clone this repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Start the development server with `npm start`.
-4. Open your web browser and navigate to `http://localhost:3000` to view the website.
+4. Open your web browser and navigate to `http://localhost:{your port number}` to view the website.
 
 ## Usage
 
