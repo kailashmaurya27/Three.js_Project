@@ -34,7 +34,3 @@ This project is a showcase of cutting-edge technology merging AI and web develop
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions or improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
