@@ -18,9 +18,9 @@ This project is a showcase of cutting-edge technology merging AI and web develop
   2. Customizer page which has 3 options
      1. To change the Tshirt color
      ![image](https://github.com/kailashmaurya27/Three.js_Project/assets/91011670/17f9c9bb-a4c2-4b32-8cf5-2a37ebac9827)
-     **2.2** To upload your logo or design to Tshirt
+     2. To upload your logo or design to Tshirt
      ![image](https://github.com/kailashmaurya27/Three.js_Project/assets/91011670/533106f8-dfde-4569-9cc2-60e052190353)
-     **2.3** Ask the AI to help you select Tshirt Design and Logo
+     3. Ask the AI to help you select Tshirt Design and Logo
      
 ## Technologies Used
 
