@@ -1,4 +1,4 @@
-# AI-Powered 3D Website
+# AI-Powered 3D Tshirt Customizer
 
 This project is a showcase of cutting-edge technology merging AI and web development to create an immersive experience for users. The website utilizes React.js and Three.js to create a dynamic 3D environment where users can interact with customizable T-shirts.
 
@@ -26,14 +26,15 @@ This project is a showcase of cutting-edge technology merging AI and web develop
 
 - React.js: Front-end framework for building dynamic user interfaces.
 - Three.js: JavaScript library for creating and displaying 3D graphics in a web browser.
-- OpenAI Library: Various AI libraries are used for image processing and print generation.
+- OpenAI API: The Openai API key is used for image processing and print generation.
 
 ## Getting Started
 
 1. Clone this repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Start the development server with `npm start`.
-4. Open your web browser and navigate to `http://localhost:{your port number}` to view the website.
+4. Start the client with `npm run dev`.
+5. Open your web browser and navigate to `http://localhost:{your port number}` to view the website.
 
 ## Usage
 
@@ -42,6 +43,9 @@ This project is a showcase of cutting-edge technology merging AI and web develop
 3. Upload your own design using the provided interface.
 4. Choose the placement of the logo and whether the design should cover the full T-shirt or not.
 5. Explore different customization options and enjoy the immersive experience!
+
+## Deployed Link
+https://three-js-project-eight.vercel.app/
 
 ## Contributing
 
